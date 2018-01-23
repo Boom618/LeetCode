@@ -21,7 +21,7 @@ public class CommonPrefix {
     }
 
     /**
-     * 思路：
+     * 思路：根据数组长度 和 最短字符长度遍历
      *
      * @param string
      */
@@ -62,10 +62,11 @@ public class CommonPrefix {
             }
         }
 
+        // 查找字符串数组中的公共前缀字符
         // str = {"abcde", "abcd", "abddddd"}
         for (int i = 0; i < minLength; i++) {
             for (int j = 0; j <= strLength; j++) {
-                if (i < strLength){
+                if (i < strLength) {
                     char at = minString.charAt(j);
                     char c = string[i].charAt(j);
                     if (at != c) {
@@ -75,9 +76,10 @@ public class CommonPrefix {
             }
         }
 
+        // 思考： 如何查找公共的字符串 { "abcdefg","ebcacdew","fgcde"} => "cde"
+        // 递归调用、实在是没写出来[/大哭脸]
 
         return temp;
-
 
     }
 }

@@ -10,4 +10,6 @@
 - `Palindrome` 判断一个有符号整型数是否是回文
 - `RomanToInt` 罗马数字转整型数
 - `CommonPrefix` 从字符串数组中找出公共前缀
+- `Match`  判断括号匹配是否正确
+- `MergeTwoLists` 合并已排序的链表
 ## hard

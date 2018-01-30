@@ -13,4 +13,5 @@
 - `Match`  判断括号匹配是否正确
 - `MergeTwoLists` 合并已排序的链表
 - `RemoveDuplicates` 计算有序数组中不重复元素的长度
+- `RemoveElement` 删除数组中指定元素返回新数组的长度
 ## hard

@@ -15,5 +15,6 @@
 - [RemoveDuplicates](https://github.com/Boom618/LeetCode/blob/f82a3304179b1d28f5f906129686afa7a8ee027a/src/easy/RemoveDuplicates.java) 计算有序数组中不重复元素的长度
 - [RemoveElement](https://github.com/Boom618/LeetCode/blob/f82a3304179b1d28f5f906129686afa7a8ee027a/src/easy/RemoveElement.java) 删除数组中指定元素返回新数组的长度
 - [FindString](https://github.com/Boom618/LeetCode/blob/f82a3304179b1d28f5f906129686afa7a8ee027a/src/easy/FindString.java) 主字符串中找子字符串的索引
-- `SearchInsert` 找目标数插入的索引
+- [SearchInsert](https://github.com/Boom618/LeetCode/blob/9fd66bfc81e8a3aea975ad017cf43f0b384d35c3/src/easy/SearchInsert.java) 找目标数插入的索引
+- [CountAndSay]()统计出现的数字和写出来
 ## hard

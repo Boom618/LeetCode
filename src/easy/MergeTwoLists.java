@@ -1,6 +1,6 @@
 package easy;
 
-import Structure.ListNode;
+import structure.ListNode;
 
 
 /**
@@ -56,7 +56,7 @@ public class MergeTwoLists {
             temp = temp.next;
         }
 
-        // 错误笔记： temp =
+        // 错误笔记： temp = null ? l1 : l2;
         temp.next = l1 != null ? l1 : l2;
 
         return head;

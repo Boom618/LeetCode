@@ -47,7 +47,7 @@ public class ListNode {
      *
      * @param listNode
      */
-    public static void pritn(ListNode listNode) {
+    public static void print(ListNode listNode) {
         if (listNode == null) {
             System.out.println("null");
             return;

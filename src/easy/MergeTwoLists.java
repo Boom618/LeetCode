@@ -18,11 +18,11 @@ public class MergeTwoLists {
         ListNode l1 = ListNode.createNode("[1,3,5,6,9]");
         ListNode l2 = ListNode.createNode("[2,4,7,10]");
 
-        ListNode.pritn(l1);
-        ListNode.pritn(l2);
+        ListNode.print(l1);
+        ListNode.print(l2);
 
         ListNode listNode = main.mergeTwoLists(l1, l2);
-        ListNode.pritn(listNode);
+        ListNode.print(listNode);
 
     }
 

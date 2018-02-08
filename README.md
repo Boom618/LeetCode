@@ -17,5 +17,7 @@
 - [FindString](https://github.com/Boom618/LeetCode/blob/f82a3304179b1d28f5f906129686afa7a8ee027a/src/easy/FindString.java) 主字符串中找子字符串的索引
 - [SearchInsert](https://github.com/Boom618/LeetCode/blob/9fd66bfc81e8a3aea975ad017cf43f0b384d35c3/src/easy/SearchInsert.java) 找目标数插入的索引
 - [CountAndSay](https://github.com/Boom618/LeetCode/blob/master/src/easy/CountAndSay.java) 统计出现的数字和写出来
-- [MaxSubArray]() 求数组中子数组的最大和
+- [MaxSubArray](https://github.com/Boom618/LeetCode/blob/master/src/easy/MaxSubArray.java) 求数组中子数组的最大和
+## medium
+- [AddTwoNumbers]() 以链表表示一个数低位在前高位在后
 ## hard

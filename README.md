@@ -19,5 +19,7 @@
 - [CountAndSay](https://github.com/Boom618/LeetCode/blob/master/src/easy/CountAndSay.java) 统计出现的数字和写出来
 - [MaxSubArray](https://github.com/Boom618/LeetCode/blob/master/src/easy/MaxSubArray.java) 求数组中子数组的最大和
 ## medium
-- [AddTwoNumbers]() 以链表表示一个数低位在前高位在后
+- [AddTwoNumbers](https://github.com/Boom618/LeetCode/blob/master/src/medium/AddTwoNumbers.java) 以链表表示一个数、低位在前、高位在后
+- [MaxSubString]() 计算不带重复字符的最长子字符串的长度
+
 ## hard

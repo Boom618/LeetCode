@@ -1,7 +1,9 @@
->微信公众号： BoomDev
-如有问题或建议请留言
+> 微信公众号： BoomDev
+
+> 如有问题或建议请留言
 最近更新：`2018-06-01`
 
+![欢迎关注我、一起学习、一起进步](https://github.com/Boom618/LeetCode/blob/d08745e4f2673d84f44da6919a7b6b7b2cb1b77e/Boomhe.jpg)
 
 # LeetCode 笔记
 

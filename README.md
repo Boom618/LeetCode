@@ -1,9 +1,10 @@
->微信公众号： 还没有
-如有问题或建议，请公众号留言
-开始时间：`2018-01-10`
+>微信公众号： BoomDev
+如有问题或建议请留言
+最近更新：`2018-06-01`
 
 
 # LeetCode 笔记
+
 ## easy
 - [TwoSum](https://github.com/Boom618/LeetCode/blob/f82a3304179b1d28f5f906129686afa7a8ee027a/src/easy/TwoSum.java) 从给定的数组中找到两个元素的和为指定值的两个索引
 - [Reverse](https://github.com/Boom618/LeetCode/blob/f82a3304179b1d28f5f906129686afa7a8ee027a/src/easy/Reverse.java) 给你一个整型数，求它的逆序整型数
